@@ -69,11 +69,23 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          시중에는 많은 음악추천 서비스들이 있지만, 대부분은 음악 자체를 분석해 추천(Content-based Recommendation)하기보다 비슷한 성향의 \
-          사용자에게 추천(Collaborative Filtering)하는 방식으로 진행됩니다. 저희 팀은 기존의 방식에 더해서 음악의 내용(멜로디, 화성 등)이 비슷한\
-          음악을 추천하는 서비스를 제공하고자 프로젝트를 진행하게 되었습니다.
+          시중에는 많은 음악추천 서비스들이 있지만, 대부분은 음악 자체를 분석해 추천(Content-based Recommendation)하기보다 비슷한 성향의 사용자에게 추천(Collaborative Filtering)하는 방식으로 진행됩니다. 저희 팀은 기존의 방식에 더해서 음악의 내용(멜로디, 화성 등)이 비슷한 음악을 추천하는 서비스를 제공하고자 프로젝트를 진행하게 되었습니다.
 
   - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: middle
+        # title: The Boring Company
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        # caption: November 2017 - Present
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            아직 AI에서의 경력은 없습니다! 제 AI커리어의 시작을 함께할 회사를 찾습니다!
+
+  - title: Technical Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -85,8 +97,8 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            제 AI에서의 커리어의 시작을 함께할 회사를 찾습니다!
-
+            <mark>Python<mark> <mark>Numpy<mark> <mark>Pandas<mark> <mark>PyTorch<mark> <mark>matplotlib<mark> <mark>Seaborn<mark> <mark>git<mark>
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -98,8 +110,6 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           기초적인 DL과 추천 시스템의 다양한 모델들 배웠고 총 3번의 내부 대회와 최종 프로젝트를 수행했습니다.
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: UNIST M.S.
         caption: 2018.03 ~ 2020.02
@@ -108,8 +118,6 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           MEMS(Micro Electro Mechanical System)를 이용한 생체 모사를 주로 연구했습니다.
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: UNIST B.S.
         caption: 2011.03 ~ 2018.02
