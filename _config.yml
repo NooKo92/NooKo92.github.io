@@ -30,10 +30,10 @@ youtube_username:
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ML/DL 엔지니어로 새로운 도약을 꿈꾸는 고현욱입니다. 다양한 모델로 주어진 task에서 최적의 결과를 얻는 것에 관심이 있습니다.
+  AI 엔지니어로 새로운 도약을 꿈꾸는 고현욱입니다. 과거에 코딩이 즐거웠던 기억과 AI의 잠재력에 대한 기대로 진로를 변경하게 되었습니다.
 
 
 content:
@@ -97,7 +97,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            <mark>Python<mark> <mark>Numpy<mark> <mark>Pandas<mark> <mark>PyTorch<mark> <mark>matplotlib<mark> <mark>Seaborn<mark> <mark>git<mark>
+            <mark>Python</mark> <mark>Numpy</mark> <mark>Pandas</mark> <mark>PyTorch</mark> <mark>matplotlib</mark> <mark>Seaborn</mark> <mark>git</mark>
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,7 +113,7 @@ content:
       - layout: left
         title: UNIST M.S.
         caption: 2018.03 ~ 2020.02
-        sub_title: 기계공학
+        sub_title: 기계공학 (3.95/4.3)
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -121,7 +121,7 @@ content:
       - layout: left
         title: UNIST B.S.
         caption: 2011.03 ~ 2018.02
-        sub_title: 기계공학
+        sub_title: 기계공학 (3.7/4.3)
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
