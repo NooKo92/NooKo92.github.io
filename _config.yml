@@ -70,7 +70,7 @@ content:
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           시중에는 많은 음악추천 서비스들이 있지만, 대부분은 음악 자체를 분석해 추천(Content-based Recommendation)하기보다 비슷한 성향의 사용자에게 추천(Collaborative Filtering)하는 방식으로 진행됩니다. 저희 팀은 기존의 방식에 더해서 음악의 내용(멜로디, 화성 등)이 비슷한 음악을 추천하는 서비스를 제공하고자 프로젝트를 진행하게 되었습니다.
-        - layout: middle
+        - layout: top-middle
         title: 영화 추천 대회
         link: 
         # link_text: Project Website
