@@ -96,8 +96,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Private 5위
+        caption: Private 5위
+        # quote: >
         description: | # this will include new lines to allow paragraphs
           사용자의 학습기록을 토대로 마지막 문제를 맞힐지를 예측했습니다.
       - layout: left
@@ -111,8 +111,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Private 2위
+        caption: Private 2위
         description: | # this will include new lines to allow paragraphs
           사용자의 특정 책에 대한 평점을 예측했습니다.
 
