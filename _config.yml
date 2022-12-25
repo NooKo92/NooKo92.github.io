@@ -96,8 +96,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          Private 5위
         description: | # this will include new lines to allow paragraphs
 
         - layout: top-middle
@@ -111,8 +111,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          Private 2위
         description: | # this will include new lines to allow paragraphs
 
   - title: Experience # Title for the section
